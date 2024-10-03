@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1727995487 source:c:\users\wilmer\documents\programacion iii\parcial1_resuelto_lista_slt\main.cpp
+	<iostream>
+	<list>
+	"Cliente.h"
+	"Producto.h"
+	"Venta.h"
+
+1727969399 source:c:\users\wilmer\documents\programacion iii\parcial1_resuelto_lista_slt\src\cliente.cpp
+	"Cliente.h"
+
+1727969399 c:\users\wilmer\documents\programacion iii\parcial1_resuelto_lista_slt\include\cliente.h
+	"Objeto.h"
+	<string>
+
+1727969399 c:\users\wilmer\documents\programacion iii\parcial1_resuelto_lista_slt\include\objeto.h
+
+1727969450 source:c:\users\wilmer\documents\programacion iii\parcial1_resuelto_lista_slt\src\medida.cpp
+	"Medida.h"
+
+1727969450 c:\users\wilmer\documents\programacion iii\parcial1_resuelto_lista_slt\include\medida.h
+	<string>
+
+1727969561 source:c:\users\wilmer\documents\programacion iii\parcial1_resuelto_lista_slt\src\producto.cpp
+	"Producto.h"
+
+1727969561 c:\users\wilmer\documents\programacion iii\parcial1_resuelto_lista_slt\include\producto.h
+	"Medida.h"
+	"Objeto.h"
+
+1727989032 source:c:\users\wilmer\documents\programacion iii\parcial1_resuelto_lista_slt\src\venta.cpp
+	"Venta.h"
+
+1727989027 c:\users\wilmer\documents\programacion iii\parcial1_resuelto_lista_slt\include\venta.h
+	"Objeto.h"
+	"Cliente.h"
+	"Producto.h"
+	<list>
+
